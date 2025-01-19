@@ -1,5 +1,5 @@
 # Welcome to My GitHub Portfolio 👋  
-Hi, I'm Yashwanth Sena Veerupakshi!  
+#Hi, I'm Yashwanth Sena Veerupakshi!  
 
 I'm passionate about becoming a Machine Learning (ML) and Artificial Intelligence (AI) developer. My primary interest lies in Machine Learning, and I aim to deepen my expertise in this exciting field.  
 
